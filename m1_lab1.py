@@ -25,7 +25,7 @@ for linha in tables[1:]:
      nome = linha[0]
 
      # Imprimindo os caracteres da posicao 0 ate 8 
-     print(nome[0:8])
+     print(nome[0:])
 
 
      #Outras formas de fazer a mesma coisa
